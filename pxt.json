@@ -1,0 +1,14 @@
+{
+    "name": "my-ai-extension",
+    "description": "A simple AI movement extension",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "targetVersions": {
+        "target": "v6.0.0"
+    }
+}
